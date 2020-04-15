@@ -1,5 +1,4 @@
-# AnimalCrossing
-# Animal Crossing
+# Animal Crossing: New Horizons
 Insect &amp; Fish Guides
 ***********************************
 Note: For NORTHERN HEMISPHERE ONLY
